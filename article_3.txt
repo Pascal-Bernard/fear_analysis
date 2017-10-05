@@ -1,0 +1,15 @@
+When you try to interface with the physical world, there's trust injected into that relationship," Van Valkenburgh told Ars.
+
+That can cause problems. If you buy a token representing a banana harvest, for example, there's a risk that the guy harvesting the bananas won't deliver. If you buy a token representing a house, the guy living in the house might not move out. In this kind of situation, a blockchain doesn't help you avoid the hassle and expense of using old-fashioned enforcement mechanisms like contracts,title insurance, lawsuits, and so forth.
+
+"Just tokenizing existing real estate doesn't create a liquid market," venture capitalist Albert Wenger told Ars. "My instinct is that tokens only make sense when the tokens play an actual role in the protocol."
+
+Alternatively, as Wenger hints, the most promising blockchain projects were ones where the token was tightly integrated into the network's functionality. For example, there are several projects working to build decentralized file-storage networks. Three of the leading projects in this area are Filecoin (which raised around $200 million in a recent ICO), Storj (which raised $30 million), and Sia (which did not do a presale before launching its network).
+
+The creators of these networks have developed (or are developing) ways for storage contracts to be verified automatically on the blockchain. On the Sia network, for example, storage providers post collateral using the Sia network's currency, siacoin. Providers are required to periodically furnish cryptographic proof they're storing the files they promised to store. If a storage provider fails to supply this proof in a timely manner, it automatically loses its collateral for that contract. Customers never have to appeal to external legal authorities to enforce these deals—it's handled automatically by the blockchain itself, with minimal cost.
+
+FURTHER READING
+Investors poured millions into a storage network that doesn’t exist yet
+Another major category of blockchain-based projects uses cryptocurrency to reward creation of content. Steemit, for example, is a reddit-like social network that stores all site content—posts, comments, even upvotes—on the Steem blockchain. As on Reddit, users vote on the best posts and comments. The difference is that on Steemit, the authors of the most-upvoted content get rewarded with cryptocurrency that can be redeemed for cash. Right now, Steemit has one of the most active blockchains, with thousands of people adding content to the network on a daily basis.
+
+Some of the biggest ICOs have been for projects that aim to replace Ethereum itself. For example, Tezos is an Ethereum competitor that uses formal verification techniques to ensure that Ethereum-based programs do what they're expected to do. Bugs in a poorly verified Ethereum project called the DAO cost investors tens of millions of dollars last year, so Tezos wants to make it a lot easier for people to write bug-free blockchain software. The project raised $232 million in a July ICO.
